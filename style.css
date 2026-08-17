@@ -516,7 +516,12 @@ button {
 
   overflow: hidden;
 }
-
+.breakfast-photo {
+  background-image: url("breakfast.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 .image-placeholder::before {
   content: "";
   position: absolute;
