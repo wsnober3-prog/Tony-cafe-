@@ -288,7 +288,7 @@ button {
       rgba(25, 17, 13, 0.83) 44%,
       rgba(25, 17, 13, 0.45) 100%
     ),
-    url("cafe-hero.jpg");
+    url("cafe-hero.png");
 
   background-size: cover;
   background-position: center;
